@@ -14,7 +14,7 @@ app.use("/transactions", transactionController)
 
 // ROOT
 app.get("/", (req, res) => {
-  res.send("Basic Express App - ROOT");
+  res.send("Budgeting App");
 });
 
 // Error message
