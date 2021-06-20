@@ -1,5 +1,4 @@
 const transactions = require("express").Router();
-const { rawListeners } = require("../../app");
 const dataArr = require("../models/data");
 
 // get all data or Index
