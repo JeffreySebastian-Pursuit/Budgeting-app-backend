@@ -1,5 +1,5 @@
 module.exports = [
-  { from: "Corey", date: "April 10", name: "Code Along", amount: 10 },
+  { from: "Corey", date: "2020/04/10", name: "Code Along", amount: 10 },
   { from: "Corey", date: "April 7", name: "AirPods", amount: 200 },
   { from: "Corey", date: "April 9", name: "Apple", amount: -53 },
   { from: "Corey", date: "April 28", name: "Taxes", amount: 123 },
