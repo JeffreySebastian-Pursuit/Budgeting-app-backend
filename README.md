@@ -1,4 +1,4 @@
-### Budgeting App Project
+# Budgeting App Project
 
 ## Tech Use
 
